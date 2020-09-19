@@ -1,5 +1,5 @@
 let foodAvailable = true;
-let waterAvailable = false;
+let waterAvailable = true;
 let bedAvailable = true;
 
 function eat() {
